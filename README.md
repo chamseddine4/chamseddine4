@@ -20,12 +20,19 @@
 ---
 ### 🛠️ Tech Stack & Tools
 
+
 **Programming** : Python, SQL, R, Java, C
-**Data Engineering** : Pandas, NumPy, ETL (Talend), Spark, Docker
+
+**Data Engineering** : Pandas, NumPy, ETL (Talend), Spark, Dockers
+
 **Visualization** : Matplotlib, Seaborn, Plotly
+
 **Machine Learning** : TensorFlow, PyTorch, scikit-learn, XGBoost, Feature Engineering
+
 **Database and Data Technologies** : Oracle, MySQL, SQL Server, PLSQL
+
 **Frameworks**: TensorFlow, PyTorch, Scikit-Learn, Flask 
+
 **Tools** : Git, CI/CD (Jenkins)
 
 ---

@@ -20,21 +20,14 @@
 ---
 ### 🛠️ Tech Stack & Tools
 
-Programming : Python, SQL, R, Java, C
-Data Engineering : Pandas, NumPy, ETL (Talend), Spark, Docker
-Visualization : Matplotlib, Seaborn, Plotly
-Machine Learning : TensorFlow, PyTorch, scikit-learn, XGBoost, Feature Engineering
-Database and Data Technologies : Oracle, MySQL, SQL Server, PLSQL
-Tools : Git, CI/CD (Jenkins)
+**Programming** : Python, SQL, R, Java, C
+**Data Engineering** : Pandas, NumPy, ETL (Talend), Spark, Docker
+**Visualization** : Matplotlib, Seaborn, Plotly
+**Machine Learning** : TensorFlow, PyTorch, scikit-learn, XGBoost, Feature Engineering
+**Database and Data Technologies** : Oracle, MySQL, SQL Server, PLSQL
+**Frameworks**: TensorFlow, PyTorch, Scikit-Learn, Flask 
+**Tools** : Git, CI/CD (Jenkins)
 
-**Languages**: Python, R, SQL, Java, C  
-**Frameworks**: TensorFlow, PyTorch, Scikit-Learn, Flask  
-**Tools**: Airflow, Docker, Talend, Git, Jenkins  
-**Databases**: Oracle, MySQL, SQL Server  
-**Other**: ETL, NLP, LSTM, Feature Engineering
-
----
-SKILLS
 ---
 
 ### 📫 Let’s Connect

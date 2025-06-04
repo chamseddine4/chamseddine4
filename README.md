@@ -16,24 +16,7 @@
 - 🏅Hult Prize 2022 – Global Finalist, Boston @ MIT
 - 🥇 Hult Prize 2022 - Winner @ Hult Regional Summit Istanbul
 - 🥇 Hult Prize 2022 - National Champion, Tunisia (ESPRIT University)
-  
----
-### 🛠️ Tech Stack & Tools
 
-
-**Programming** : Python, SQL, R, Java, C
-
-**Data Engineering** : Pandas, NumPy, ETL (Talend), Spark, Dockers
-
-**Visualization** : Matplotlib, Seaborn, Plotly
-
-**Machine Learning** : TensorFlow, PyTorch, scikit-learn, XGBoost, Feature Engineering
-
-**Database and Data Technologies** : Oracle, MySQL, SQL Server, PLSQL
-
-**Frameworks**: TensorFlow, PyTorch, Scikit-Learn, Flask 
-
-**Tools** : Git, CI/CD (Jenkins)
 
 ---
 

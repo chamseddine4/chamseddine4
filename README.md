@@ -1,30 +1,23 @@
-### 👋 Hi, I’m Chams Eddine Hammami
+# Hi, I'm Chams Eddine Hammami 👋
 
-- 💼 Data Scientist | Machine Learning Engineer
-- 🧠 Specializing in Deep Learning, NLP, and Predictive Modeling
-- 🏆 Global Finalist @ Hult Prize 2022 (Top 16 Worldwide)
-- 🌍 Based in Hannover, Germany
-- 🔭 Currently working on:
-  - 📈 Cryptocurrency Price Forecasting with LSTM
-  - 🔋 Battery Prediction Optimization using Deep Learning
+Software engineer with a data and AI background. I build backend, data and AI applications with Python and SQL.
 
----
+- 📍 Hannover, Germany
+- 🎓 M.Sc. Computer Science (Data Science), ESPRIT, Tunisia
+- 🔎 Open to working student and junior roles in software engineering, backend and AI
 
+## Selected projects
+- **[Flowit AI](https://github.com/chamseddine4/flowit-hackathon)**: AI assistant that connects 9 data sources, with evidence-based answers and role-based access (8-day solo build)
+- **[Outliners](https://github.com/chamseddine4/Outliners)**: Symfony team project, a social web app to help homeless people (I built the authentication)
+- **[TuniBless Dashboard](https://github.com/chamseddine4/tunibless-dashboard)**: front-end dashboard prototype for a volunteer organization
+- **[Cryptocurrency Price Prediction](https://github.com/chamseddine4/Cryptocurrency-Price-Prediction)**: LSTM-based forecasting
 
-### 🏅 Honors & Achievements
+## Tech
+Python · SQL · Django · Symfony · JavaScript · Docker · Jenkins · Databricks · Spark · Azure SQL · Claude API
 
-- 🏅Hult Prize 2022 – Global Finalist, Boston @ MIT
-- 🥇 Hult Prize 2022 - Winner @ Hult Regional Summit Istanbul
-- 🥇 Hult Prize 2022 - National Champion, Tunisia (ESPRIT University)
+## Honors
+- 🏆 Hult Prize 2022: Global Finalist (Boston @ MIT)
+- 🥇 Hult Prize 2022: Winner @ Regional Summit Istanbul, National Champion Tunisia (ESPRIT)
 
-
----
-
-### 📫 Let’s Connect
-
-📧 [chamseddine.hammami18@gmail.com] 
-
-🔗 [LinkedIn](https://linkedin.com/in/chamseddinehammami)  
-
-
-
+## Contact
+📧 [chamseddine.hammami18@gmail.com](mailto:chamseddine.hammami18@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/chamseddinehammami/)

@@ -3,7 +3,7 @@
 Software engineer with a data and AI background. I build backend, data and AI applications with Python and SQL.
 
 - 📍 Hannover, Germany
-- 🎓 M.Sc. Computer Science (Data Science), ESPRIT, Tunisia
+- 🎓 M.Sc. Computer Science (Data Science), ESPRIT
 - 🔎 Open to working student and junior roles in software engineering, backend and AI
 
 ## Selected projects
